@@ -1,6 +1,7 @@
 {
 	"name": "Ultrasonic-HC-SR04",
-	"description": "",
+	"description": "A library for handling Ultrasonic HC-SR04 data",
+	"keywords": "ultrasonic, arduino, reading",
 	"authors": [{
 		"url": "",
 		"maintainer": false,
