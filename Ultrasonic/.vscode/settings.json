@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.linux": {
-        "PATH": "/home/bpeixoto/.platformio/penv/bin:/home/bpeixoto/.platformio/penv:/home/bpeixoto/bin:/home/bpeixoto/.local/bin:/home/bpeixoto/bin:/home/bpeixoto/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/bpeixoto/.platformio/penv/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/bpeixoto/.platformio/penv/bin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
