@@ -17,6 +17,9 @@
 		"url": "https://github.com/brunolnetto/Ultrasonic-HC-SR04",
 		"type": "git"
 	},
+	"export":{
+		"include":  ["Ultrasonic"]
+	}
 	"license": "mpich2 License",
 	"platforms": "*",
 	"examples": ["[Ee]xamples/LCD/*.ino", "[Ee]xamples/PlugAndPlay/*.ino", "[Ee]xamples/Serial/*.ino", "[Ee]xamples/Timing/*.ino", "[Ee]xamples/TwoOrMore/*.ino"]
