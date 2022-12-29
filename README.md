@@ -1,5 +1,6 @@
 Ultrasonic HC-SR04 library for Arduino
 ==================
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/brunolnetto/library/Ultrasonic-HC-SR04.svg)](https://registry.platformio.org/libraries/brunolnetto/Ultrasonic-HC-SR04)
 
 Features:
  - Compatible with the Arduino IDE 1.0.1 or lower
